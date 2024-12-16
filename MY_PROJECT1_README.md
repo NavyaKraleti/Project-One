@@ -65,5 +65,3 @@ Worked on a **data analytics platform** for the healthcare domain, designed to i
 - Conduct **end-to-end testing** from the Raw layer through to the Serve layer to validate the entire data flow.
 
 ---
-
-This project highlights my ability to work with **cloud data platforms** and **data pipelines**, ensuring the integrity of data and supporting **business analytics** in the healthcare domain. 🚀
